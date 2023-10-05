@@ -1,3 +1,4 @@
 # hubofcoding
 repository
-authe: junaid elahi
+<br>
+author: junaid elahi
